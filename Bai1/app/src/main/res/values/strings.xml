@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string name="title_app_personal">Quản lý chi tiêu\ncá nhân</string>
+    <string name="title_manage_expense">Quản lý chi tiêu</string>
+    <string name="title_add_expense">Thêm khoản chi</string>
+    <string name="title_detail_expense">Chi tiết khoản chi</string>
+
+    <string name="hint_username">Nhập tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="error_login_failed">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="sample_account_info">Tài khoản mẫu: admin / 123456</string>
+
+    <string name="label_total_spent">Tổng số tiền đã chi</string>
+    <string name="label_expense_list">Danh sách khoản chi</string>
+    <string name="btn_add_new_expense">+ Thêm khoản chi</string>
+
+    <string name="label_title">Tên khoản chi</string>
+    <string name="hint_title">Ví dụ: Ăn trưa</string>
+    <string name="label_amount">Số tiền (VNĐ)</string>
+    <string name="hint_amount">Chỉ nhập số, ví dụ: 45000</string>
+    <string name="label_category">Danh mục</string>
+    <string name="label_date">Ngày chi tiêu</string>
+    <string name="label_note">Ghi chú</string>
+    <string name="hint_note">Nhập ghi chú (nhiều dòng)...</string>
+    <string name="btn_save_expense">Lưu khoản chi</string>
+
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete_expense">Xóa khoản chi</string>
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_msg">Bạn có chắc chắn muốn xóa khoản chi này không?</string>
+    <string name="btn_confirm_yes">Xóa</string>
+    <string name="btn_confirm_cancel">Hủy</string>
+
+    <string name="welcome_user">Xin chào, %1$s!</string>
+    <string name="login_details_title">Thông tin đăng nhập</string>
+    <string name="login_details_message">Tài khoản đăng nhập hiện tại: %1$s</string>
+    <string name="close">Đóng</string>
+    <string name="login_success">Đăng nhập thành công!</string>
+    <string name="welcome_home">Xin chào!</string>
+    <string name="btn_login_details">Chi tiết đăng nhập</string>
+</resources>

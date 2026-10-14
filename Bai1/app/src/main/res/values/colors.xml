@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_wine">#7A0C1E</color>
+    <color name="primary_wine_dark">#500511</color>
+    <color name="bg_cream">#FAF2F0</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_header_bg">#F8ECEB</color>
+    <color name="badge_bg">#F2E0DE</color>
+    <color name="badge_text">#7A0C1E</color>
+    <color name="text_primary">#221114</color>
+    <color name="text_secondary">#7A686B</color>
+    <color name="text_error">#D32F2F</color>
+    <color name="stroke_color">#E0D0CE</color>
+</resources>

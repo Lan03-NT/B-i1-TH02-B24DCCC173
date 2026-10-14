@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bai1" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_wine</item>
+        <item name="android:statusBarColor">@color/primary_wine_dark</item>
+        <item name="android:windowBackground">@color/bg_cream</item>
+    </style>
+
+    <style name="Theme.Bai1" parent="Base.Theme.Bai1" />
+</resources>
